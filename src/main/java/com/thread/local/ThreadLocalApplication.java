@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import java.util.concurrent.ExecutionException;
 
 //https://www.baeldung.com/java-threadlocal
-
+//https://dzone.com/articles/an-alternative-approach-to-threadlocal-using-sprin-1
 @SpringBootApplication
 public class ThreadLocalApplication {
 
