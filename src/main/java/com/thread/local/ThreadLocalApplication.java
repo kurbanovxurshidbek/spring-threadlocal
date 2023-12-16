@@ -5,6 +5,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import java.util.concurrent.ExecutionException;
 
+//https://www.baeldung.com/java-threadlocal
+
 @SpringBootApplication
 public class ThreadLocalApplication {
 
